@@ -1,6 +1,8 @@
-# Simple React Start Kit 2017
+# react challenge - hold shift to check multiple checkboxes
 
-這個環境包可以讓你快速體驗 ReactJS 開發環境的便利，我們並沒有在裏面放入太多套件(例如 redux, karma)，希望可以讓你用最簡單的環境開始學習 React
+用 React JS 製作check list，並加上點擊shift 可複選的功能。
+
+[Demo](https://reactmaker.github.io/react_challenge_hold_shift_to_check_multiple_checkboxes/#/)
 
 ## 特色
 
