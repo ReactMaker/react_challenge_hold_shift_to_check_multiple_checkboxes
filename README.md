@@ -21,8 +21,8 @@
 先確定好安裝了 node 4.5 以上的版本，接著就可以輸入以下指令
 
 ```bash
-$ git clone https://github.com/ReactMaker/simple_react_start_kit_2017
-$ cd simple_react_start_kit_2017
+$ git clone https://github.com/ReactMaker/react_challenge_hold_shift_to_check_multiple_checkboxes
+$ cd react_challenge_hold_shift_to_check_multiple_checkboxes
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
@@ -30,6 +30,8 @@ $ npm start                     # Compile and launch
 如果一切成功，就會看到以下畫面，並且瀏覽器會打開的範例頁面
 
 ![Imgur](http://i.imgur.com/14aROBn.png)
+![react_challenge_hold_shift_to_check_multiple_checkboxes](https://i.imgur.com/Y8iLFkP.png)
+
 
 開發當中最常用到的是 `npm start` 指令，我們還有一些其他的指令要介紹給你知道
 
